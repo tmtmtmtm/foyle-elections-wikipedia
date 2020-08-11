@@ -1,0 +1,58 @@
+id,name,party,partyLabel,votes,election,electionLabel,ranking
+Q5149523,Colum Eastwood,Q175443,Social Democratic and Labour Party,26881,Q30173038,General election 2019,1
+Q28867747,Elisha McCallion,Q76382,Sinn Féin,9771,Q30173038,General election 2019,2
+Q21130106,Gary Middleton,Q215519,Democratic Unionist Party,4773,Q30173038,General election 2019,3
+,Anne McCloskey,Q61090509,Aontú,2032,Q30173038,General election 2019,4
+,Shaun Harkin,Q3545406,People Before Profit Alliance,1332,Q30173038,General election 2019,5
+,Rachael Ferguson,Q244927,Alliance Party of Northern Ireland,1267,Q30173038,General election 2019,6
+,Darren Guy,Q841045,Ulster Unionist Party,1088,Q30173038,General election 2019,7
+Q28867747,Elisha McCallion,Q76382,Sinn Féin,18256,Q25052149,General election 2017,1
+Q302620,Mark Durkan,Q175443,Social Democratic and Labour Party,18087,Q25052149,General election 2017,2
+Q21130106,Gary Middleton,Q215519,Democratic Unionist Party,7398,Q25052149,General election 2017,3
+,Shaun Harkin,Q3545406,People Before Profit Alliance,1377,Q25052149,General election 2017,4
+,John Doherty,Q244927,Alliance Party of Northern Ireland,847,Q25052149,General election 2017,5
+Q302620,Mark Durkan,Q175443,Social Democratic and Labour Party,17725,Q3586935,General election 2015,1
+,Gearóid Ó Heára,Q76382,Sinn Féin,11679,Q3586935,General election 2015,2
+Q21130106,Gary Middleton,Q215519,Democratic Unionist Party,4573,Q3586935,General election 2015,3
+,Julia Kee,Q841045,Ulster Unionist Party,1226,Q3586935,General election 2015,4
+,David Hawthorne,Q244927,Alliance Party of Northern Ireland,835,Q3586935,General election 2015,5
+,Kyle Thompson,Q10647,UK Independence Party,832,Q3586935,General election 2015,6
+,Hamish Badenoch,Q7058484,Northern Ireland Conservatives,132,Q3586935,General election 2015,7
+Q302620,Mark Durkan,Q175443,Social Democratic and Labour Party,16922,Q215622,General election 2010,1
+Q4992676,Martina Anderson,Q76382,Sinn Féin,12098,Q215622,General election 2010,2
+Q18358115,Maurice Devenney,Q215519,Democratic Unionist Party,4489,Q215622,General election 2010,3
+Q2904605,Eamonn McCann,Q3545406,People Before Profit Alliance,2936,Q215622,General election 2010,4
+,David Harding,Q7879942,Ulster Conservatives and Unionists,1221,Q215622,General election 2010,5
+,Keith McGrellis,Q244927,Alliance Party of Northern Ireland,223,Q215622,General election 2010,6
+Q302620,Mark Durkan,Q175443,Social Democratic and Labour Party,21119,Q428598,General election 2005,1
+Q6881061,Mitchel McLaughlin,Q76382,Sinn Féin,15162,Q428598,General election 2005,2
+Q8011049,William Hay,Q215519,Democratic Unionist Party,6557,Q428598,General election 2005,3
+Q2904605,Eamonn McCann,Q3545406,Socialist Environmental Alliance,1649,Q428598,General election 2005,4
+,Earl Storey,Q841045,Ulster Unionist Party,1091,Q428598,General election 2005,5
+,Ben Reel,Q6739060,Vote For Yourself Rainbow Dream Ticket,31,Q428598,General election 2005,6
+Q193630,John Hume,Q175443,Social Democratic and Labour Party,24538,Q590740,General election 2001,1
+Q6881061,Mitchel McLaughlin,Q76382,Sinn Féin,12988,Q590740,General election 2001,2
+Q8011049,William Hay,Q215519,Democratic Unionist Party,7414,Q590740,General election 2001,3
+,Andrew Davidson,Q841045,Ulster Unionist Party,3360,Q590740,General election 2001,4
+,Colm Cavanagh,Q244927,Alliance Party of Northern Ireland,579,Q590740,General election 2001,5
+Q193630,John Hume,Q175443,Social Democratic and Labour Party,25109,Q918503,General election 1997,1
+Q6881061,Mitchel McLaughlin,Q76382,Sinn Féin,11445,Q918503,General election 1997,2
+Q8011049,William Hay,Q215519,Democratic Unionist Party,10290,Q918503,General election 1997,3
+,Helen-Marie Bell,Q244927,Alliance Party of Northern Ireland,817,Q918503,General election 1997,4
+,Donn Brennan,Q491782,Natural Law Party,154,Q918503,General election 1997,5
+Q193630,John Hume,Q175443,Social Democratic and Labour Party,26710,Q543609,General election 1992,1
+Q268465,Gregory Campbell,Q215519,Democratic Unionist Party,13705,Q543609,General election 1992,2
+Q57689,Martin McGuinness,Q76382,Sinn Féin,9149,Q543609,General election 1992,3
+,Lara McIlroy,Q244927,Alliance Party of Northern Ireland,1390,Q543609,General election 1992,4
+,Gordon McKenzie,Q1860218,Workers' Party of Ireland,514,Q543609,General election 1992,5
+,John Burns,Q491782,Natural Law Party,422,Q543609,General election 1992,6
+Q193630,John Hume,Q175443,Social Democratic and Labour Party,23743,Q918472,General election 1987,1
+Q268465,Gregory Campbell,Q215519,Democratic Unionist Party,13883,Q918472,General election 1987,2
+Q57689,Martin McGuinness,Q76382,Sinn Féin,8707,Q918472,General election 1987,3
+,Elizabeth Zammitt,Q244927,Alliance Party of Northern Ireland,1276,Q918472,General election 1987,4
+Q5325584,Eamonn Melaugh,Q1860218,Workers' Party of Ireland,1022,Q918472,General election 1987,5
+Q193630,John Hume,Q175443,Social Democratic and Labour Party,24071,Q918466,General election 1983,1
+Q268465,Gregory Campbell,Q215519,Democratic Unionist Party,15923,Q918466,General election 1983,2
+Q57689,Martin McGuinness,Q76382,Sinn Féin,10607,Q918466,General election 1983,3
+,Gerard O'Grady,Q244927,Alliance Party of Northern Ireland,1108,Q918466,General election 1983,4
+Q5325584,Eamonn Melaugh,Q1860218,Workers' Party of Ireland,582,Q918466,General election 1983,5
